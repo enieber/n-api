@@ -1,0 +1,17 @@
+{
+  "name": "node_c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-addon-api": "^1.0.0"
+  },
+  "gypfile": true,
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
