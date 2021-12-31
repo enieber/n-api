@@ -7,3 +7,7 @@ Creating the sum function in C++ and run in nodejs.
 To run exemple:
 
 `npm test`
+
+## Licence
+
+**GNU GENERAL PUBLIC LICENSE - V3**
